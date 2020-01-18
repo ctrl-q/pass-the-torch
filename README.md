@@ -4,7 +4,7 @@ This project's aim is to allow independent coding of ML models, data loaders, pr
 
 ## Setup
 ```sh
-git clone https://ctrl-q/pass-the-torch
+git clone https://github.com/ctrl-q/pass-the-torch
 cd pass-the-torch
 pip install -r requirements.txt
 ```
